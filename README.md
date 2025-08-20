@@ -58,7 +58,7 @@ Siga os passos abaixo para executar o projeto localmente:
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/challenge-forumhub.git
+git clone https://github.com/RomuloFelipe1309/challenge-forumhub.git
 cd challenge-forumhub
 
 2. Configure a Base de Dados MySQL:
